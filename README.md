@@ -1,23 +1,77 @@
-<h1 align="center">Hi 👋, I'm Howida</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=itshowidaabdelhalim&label=Profile%20views&color=0e75b6&style=flat" alt="itshowidaabdelhalim" /> </p>
+# 💫 About Me
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itshowidaabdelhalim" alt="itshowidaabdelhalim" /></a> </p>
+👩🏻‍💻 **Machine Learning Engineer & Front-End Developer** sharing my journey in tech
+🤖 Building AI and machine learning solutions with Python
+⚛️ Building interactive and responsive user interfaces with React
+🧠 Exploring Generative AI, Large Language Models (LLMs), and Retrieval-Augmented Generation (RAG)
+🚀 Interested in building practical AI-powered applications and software solutions
+📚 Continuously learning and working on real-world projects
 
-- 📫 How to reach me **howidaadelabdelhalim@gmail.com**
+## 💻 Tech Stack
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/
-howida-adel-321042237
-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="howida adel" height="30" width="40" /></a>
-<a href="https://instagram.com/howida.abdelhalim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="howida.abdelhalim" height="30" width="40" /></a>
-</p>
+### 👩🏻‍💻 Programming Languages
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=itshowidaabdelhalim&show_icons=true&locale=en&layout=compact" alt="itshowidaabdelhalim" /></p>
+### 🌐 Web Development
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itshowidaabdelhalim&show_icons=true&locale=en" alt="itshowidaabdelhalim" /></p>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge\&logo=bootstrap\&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge\&logo=tailwindcss\&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask\&logoColor=white)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itshowidaabdelhalim&" alt="itshowidaabdelhalim" /></p>
+### 🤖 AI, Machine Learning & Data Science
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge\&logo=keras\&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge\&logo=pytorch\&logoColor=white)
+
+**AI & Cognitive Computing:**
+Generative AI • Generative Adversarial Networks (GANs) • Large Language Models (LLMs) • Retrieval-Augmented Generation (RAG)
+
+**Data & Algorithms:**
+Database Management • Algorithm Analysis
+
+### 🛠️ Developer Tools
+
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge\&logo=looker\&logoColor=white)
+
+### 🧩 Software Development
+
+* Object-Oriented Programming
+* Systems Programming
+* Software Engineering
+* Computer Architecture
+
+### 🌍 Languages
+
+* 🇪🇬 Arabic — Native
+* 🇬🇧 English — Fluent
+* 🇩🇪 German — Basic
+
+### 💡 Soft Skills
+
+* Programmatic Thinking
+* Adaptability
+* Time Management
+* Communication
+
+## 📊 GitHub Stats
+
+![Howida's GitHub Stats](https://github-readme-stats.vercel.app/api?username=howidaabdelhalim\&show_icons=true\&theme=nightowl)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=howidaabdelhalim\&theme=nightowl\&hide_border=false)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=howidaabdelhalim\&layout=compact\&theme=nightowl)
